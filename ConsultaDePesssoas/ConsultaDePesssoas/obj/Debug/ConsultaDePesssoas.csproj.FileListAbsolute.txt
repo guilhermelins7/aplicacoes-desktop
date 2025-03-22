@@ -1,0 +1,14 @@
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\obj\Debug\ConsultaDePesssoas.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\obj\Debug\ConsultaDePesssoas.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\obj\Debug\ConsultaDePesssoas.Form1.resources
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\obj\Debug\ConsultaDePesssoas.Properties.Resources.resources
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\obj\Debug\ConsultaDePesssoas.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\obj\Debug\ConsultaDePesssoas.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\bin\Debug\ConsultaDePesssoas.exe.config
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\bin\Debug\ConsultaDePesssoas.exe
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\bin\Debug\ConsultaDePesssoas.pdb
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\obj\Debug\ConsultaDePesssoas.csproj.CopyComplete
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\obj\Debug\ConsultaDePesssoas.exe
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\obj\Debug\ConsultaDePesssoas.pdb
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\bin\Debug\MinhaLib.dll
+C:\Users\unisanta\source\repos\ConsultaDePesssoas\ConsultaDePesssoas\bin\Debug\MinhaLib.pdb
